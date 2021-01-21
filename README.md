@@ -14,5 +14,5 @@ This is a collection of materials in Yakima Ichishkiin that have been prepared t
 
 For some help working with digital Ichishkiin materials, the following might be helpful:
 
-- [Keyman Yakima Ichishkíin Keyboard](https://keyman.com/keyboards/sahaptin_yakima"
+- [Keyman Yakima Ichishkíin Keyboard](https://keyman.com/keyboards/sahaptin_yakima)
 - [UW Sahaptin-English Dictionary](https://depts.washington.edu/sahaptin/)
